@@ -1,0 +1,3 @@
+= EditorConfig Core Rust
+
+An https://editorconfig.org[EditorConfig] file parser and manipulator for Rust.
