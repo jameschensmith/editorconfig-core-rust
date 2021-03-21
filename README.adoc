@@ -1,3 +1,5 @@
 = EditorConfig Core Rust
 
+image::https://flat.badgen.net/github/checks/jameschensmith/editorconfig-core-rust/main[Badgen GitHub checks,link="https://github.com/jameschensmith/editorconfig-core-rust/actions"]
+
 An https://editorconfig.org[EditorConfig] file parser and manipulator for Rust.
